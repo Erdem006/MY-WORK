@@ -1,0 +1,7 @@
+Pandas, NumPy, SciPy, MatPlotLib
+PySpark
+Microsoft Azure
+
+MIS 4424 Veri Madenciliği
+MIS 4423 İleri Veritabanı Uygulamaları
+MIS 3322 Bulut Bilişim
